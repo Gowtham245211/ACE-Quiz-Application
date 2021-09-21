@@ -51,7 +51,7 @@
         
         <h1 style="padding-top: 20px;">ACE Questionnaire</h1>
         
-        <form action="/result">
+        <form action="/result" method=POST>
          
         <div>
 
